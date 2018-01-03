@@ -6,7 +6,8 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = nalbarrgithubio
 SOURCEDIR     = .
-BUILDDIR      = ../../nalbarr.github.io-docs
+#BUILDDIR      = ../../nalbarr.github.io-docs
+BUILDDIR      = ..
 PDFBUILDDIR   = /tmp
 PDF           = ../manual.pdf
 
