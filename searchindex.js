@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index","source/includeme"],envversion:53,filenames:["index.rst","source/includeme.rst"],objects:{},objnames:{},objtypes:{},terms:{index:0,modul:0,page:0,search:0},titles:["Welcome to nalbarr.github.io\u2019s documentation!","README"],titleterms:{document:0,github:0,indic:0,nalbarr:0,readm:1,tabl:0,welcom:0}})
