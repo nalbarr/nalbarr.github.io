@@ -3,7 +3,7 @@
 Education
 =========
 
-DePaul University, MS Human Computer Interaction 
+DePaul University, MS Human-Computer Interaction 
 ------------------------------------------------
 
 Purdue University, BS Industrial and Systems Engineering 

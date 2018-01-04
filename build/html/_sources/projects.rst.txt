@@ -1,6 +1,0 @@
-.. _projects:
-
-Projects
-========
-
-TBD.
