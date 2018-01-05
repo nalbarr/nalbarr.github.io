@@ -3,6 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. _index:
+
 Narciso A. Albarracin, MHCI, CSM
 ================================
 
@@ -23,12 +25,13 @@ startups and HIT vendors.
 
 I have been part of two major U.S Healthcare informatics initiatives that have reached mainstream adoption.
 One key informatics innovation known as the *cancer checklists* has reached above 25% adoption in the U.S. for pathologists.
-Another is an evidence based cancer staging application programming interface (API) effective in 2018 as national standard.
+Another is an evidence-based cancer staging application programming interface (API) and launched recently as national standard
+for cancer reporting.
 
 Previous to my focus in U.S. Healthcare, I was an product architect with a large systems integrator learning core fundamentals
 to product delivery and systems engineering across complex domains.  Later, I gained confidence to take more risk within startups and
 further specialized in product innovation using cross disciplinary approaches including: human-computer interaction (HCI), expert systems
-and production rules, knowledge representation as core technology enablers.
+production rules, and knowledge representation.
 
 As a Technology Leader
 ----------------------
@@ -53,7 +56,7 @@ perspective and fluent in both JVM and .NET ecosystems.
 Although I am not a full time researcher, I colloborate with researchers and am :ref:`published<publications>` in Health Informatics.
 
 As an Continual Learner
--------------------------
+-----------------------
 I started wth natural systems thinking foundation with a bachelors of science in Industrial and Systems Engineering (BSIE) from Purdue University.  After years of industry experience,
 I went back to complement systems thinking with new design thinking perspectives and completed a masters of science (MHCI) in Human-Computer interaction at DePaul University.  Under faculty
 direction, I spent my last year specializing in domain specific UIs and task based interfaces.
@@ -69,6 +72,9 @@ You can learn more about someone by what they seek, learn and apply.  Here is a 
 and mentees.  Also, here are some :ref:`projects<projects>` that highlight past performance and current curiousities.  
 
 :ref:`Resume (Online)<resume>` | :download:`Resume (Short Format) <NarcisoAlbarracin_Bio_2018.pdf>` | :download:`Resume (Long Format) <NarcisoAlbarracin_Bio_2018 - Details.pdf>`
+
+*THIS IS STILL DRAFT*
+:ref:`rst test page<rst_test>`
 
 .. * :ref:`genindex`
 .. * :ref:`modindex`

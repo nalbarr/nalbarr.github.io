@@ -8,12 +8,13 @@ Narciso Albarracin, MHCI, CSM
 
    summary
    work
-   education
    leadership
    publications
+   education
    skills
-   projects
    certifications
+   presentations
+   projects
 
 ..   :caption: Contents:
 
