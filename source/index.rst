@@ -73,9 +73,6 @@ and mentees.  Also, here are some :ref:`projects<projects>` that highlight past 
 
 :ref:`Resume (Online)<resume>` | :download:`Resume (Short Format) <NarcisoAlbarracin_Bio_2018.pdf>` | :download:`Resume (Long Format) <NarcisoAlbarracin_Bio_2018 - Details.pdf>`
 
-*THIS IS STILL DRAFT*
-:ref:`rst test page<rst_test>`
-
 .. * :ref:`genindex`
 .. * :ref:`modindex`
 .. * :ref:`search`

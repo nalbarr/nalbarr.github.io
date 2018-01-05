@@ -1,4 +1,4 @@
-.. _rst_test:
+.. _test:
 
 ReStructedText Test Page
 ========================

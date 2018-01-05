@@ -16,7 +16,7 @@ Healthcare
 Entrepreneurship, Innovation
 ----------------------------
 - *Design Thinking for Innovation* (Liedtka – University of Virginia) | Coursera (November 2016, Audit)
-- *Developing Innovative Ideas for New Companies: The First Step in Entrepreneurship (Green – University of Maryland, Mtech) | Coursera (March 2013)
+- *Developing Innovative Ideas for New Companies: The First Step in Entrepreneurship* (Green – University of Maryland, Mtech) | Coursera (March 2013)
 - *Entrepreneurship 102: What can you do for your customer?* (Aulet, Massachusetts Institute of Technology (MIT) | edX (April 2015, Audit)
 - *Entrepreneurship 101: Who is your customer?* (Aulet, Massachusetts Institute of Technology (MIT) | edX (May 2014)
 - *Developing Innovative Ideas for New Companies: The First Step in Entrepreneurship* (Green – University of Maryland, Mtech) | Coursera (March 2013)

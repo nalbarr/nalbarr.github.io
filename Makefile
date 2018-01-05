@@ -1,3 +1,4 @@
+SHELL = /bin/bash
 # Minimal makefile for Sphinx documentation
 #
 
@@ -22,11 +23,12 @@ gh-preview:
 	open $(BUILDDIR)/html/index.html
 
 gh-commit:
-	echo "gh-commit"
-	pushd "$(BUILDDIR)"/html/
-	tar cf - . | (cd ../.. && tar xf -)
-	popd
-	git add .
+	@echo "gh-commit"
+	@pushd $(BUILDDIR)/html
+	@tar cf - . | (cd ../.. && tar xf -)
+	@popd
+	make clean
+	@git add .
 	
 .PHONY: help Makefile
 
